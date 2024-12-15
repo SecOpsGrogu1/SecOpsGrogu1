@@ -1,11 +1,8 @@
-# 💫 About Me:
-Cloud Infrastructure and Platform Engineer specializing in AWS, Azure, and GCP, with a strong focus on cloud security, infrastructure automation, and DevSecOps. I excel in crafting scalable, secure, and efficient cloud environments that enhance reliability and operational excellence for organizations.
+# Hi there 👋 I'm Paul
 
-My toolkit includes Terraform, Ansible, FluxCD, and Argo CD for automating infrastructure provisioning and deployment. I’m skilled in managing Kubernetes clusters for seamless container orchestration at scale, and I’m passionate about embedding security into every phase of the cloud lifecycle to ensure compliance, reduce risks, and optimize performance.
+> Cloud Infrastructure Engineer | DevSecOps | Security Enthusiast
 
-From conducting in-depth cloud security assessments to driving multi-cloud optimization and implementing GitOps and DevSecOps workflows, I thrive on solving intricate infrastructure challenges, streamlining processes, and aligning technical solutions with business objectives.
-
-Dedicated to advancing cloud-native workflows, enhancing Kubernetes scalability, and fortifying security practices, I’m always eager to tackle new challenges, explore emerging technologies, and collaborate on transformative projects in cloud engineering and reliability.
+Specializing in cloud security and infrastructure automation across AWS, Azure, and GCP. Passionate about Kubernetes, GitOps, and building secure, scalable systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paul-mulenga/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Paulcloudsecops) 
